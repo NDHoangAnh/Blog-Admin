@@ -1,0 +1,10 @@
+@media(min-width: 576px){
+    .btn-margin{
+        margin-left: 10px;
+    }
+}
+@media(max-width: 576px){
+    .btn-margin{
+        margin-top: 10px;
+    }
+}
